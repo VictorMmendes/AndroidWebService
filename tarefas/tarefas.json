@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Lavar a louca",
+    "descricao": "com sabao puro",
+    "criadores":["Victor", "Mendes"]
+  },
+  {
+    "titulo": "Comer",
+    "descricao": "Não esquecer",
+    "criadores":["Martins", "Victor"]
+  },
+  {
+    "titulo": "Tomar banho",
+    "descricao": "hoje",
+    "criadores":["Mendes", "Martins"]
+  },
+]
